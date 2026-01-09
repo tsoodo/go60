@@ -125,7 +125,7 @@
 &kp LEFT_SHIFT  &kp A   &kp S      &kp D      &kp F         &kp G                                                                                                         &kp H   &kp J     &kp K      &kp L     &kp SEMI  &kp SQT
 &kp LCTRL       &kp Z   &kp X      &kp C      &kp V         &kp B                                                                                                         &kp N   &kp M     &kp COMMA  &kp DOT   &kp FSLH  &kp ESCAPE
                         &kp MINUS  &kp EQUAL  &kp LEFT_ALT                                                                                                                        &kp LGUI  &kp LBKT   &kp RBKT
-                                                                    &kp LEFT_COMMAND  &mt LA(LC(LEFT_COMMAND)) SPACE  &magic 2 0  &magic 3 0  &kp ENTER  &kp RIGHT_SHIFT
+                                                                    &kp LEFT_COMMAND  &magic 2 0  &mt LA(LC(LEFT_COMMAND)) SPACE  &kp ENTER  &magic 3 0  &kp RIGHT_SHIFT
             >;
         };
 
